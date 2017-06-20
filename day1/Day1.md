@@ -160,7 +160,3 @@ class MyRunnable implements Runnable{
 ```
 
 ![](threadtest.png)
-
-# Day2
-
-test
