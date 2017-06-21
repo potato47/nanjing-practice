@@ -3,3 +3,5 @@
 
 # [Day1](day1/Day1.md)
 
+# [Day2](day2/Day2.md)
+
