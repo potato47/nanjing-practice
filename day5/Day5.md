@@ -10,7 +10,7 @@
 
 ${obj.name}  可以获取action中传递的，request,session，application以及本地定义的等可以访问的对象，属于strus
 
-```<s: property value="#session.obj.name">``` 
+```<s: property value="#session.obj.name"/>``` 
 
 ## Struts跳转类型
 

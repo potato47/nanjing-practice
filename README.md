@@ -10,3 +10,7 @@
 # [Day4](day4/Day4.md)
 
 # [Day5](day5/Day5.md)
+
+# [Day6](day6/Day6.md)
+
+# [Day7](day7/Day7.md)
