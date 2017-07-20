@@ -17,5 +17,9 @@
 
 # [大数据-Day1:基础概念+Hadoop环境搭建](big-data-01/big-data-01.md)
 
+# [大数据-Day2:SSH免密码登录+集群搭建](big-data-02/big-data-02.md)
 
+# [大数据-Day3:HDFS](big-data-03/big-data-03.md)
+
+# [大数据-Day4:Hadoop IO操作](big-data-04/big-data-04.md)
 
